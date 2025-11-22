@@ -1,70 +1,77 @@
-# 👋 Salut! Eu sunt Tudor
+<h1 align="center">Hi 👋, I'm Tudor-Cristian Sîngerean</h1>
+<h3 align="center">A motivated AI & Computer Vision enthusiast, building smart tools and preparing for a strong career in software engineering. 🚀</h3>
 
-Sunt student la **Matematică și Informatică**, pasionat de **AI, Computer Vision, Machine Learning** și de construirea unor soluții cu impact real.  
-Îmi place să lucrez la proiecte care combină analiza vizuală, optimizarea și modelarea matematică — în special în zone precum sportul, mișcarea umană și automatizare.
-
----
-
-## 🚀 Ce fac în prezent
-- Lucrez la o aplicație de **computer vision pentru bouldering**, care analizează mișcările cățărătorului și traseul parcurs.
-- Aprofunjez concepte de **deep learning, statistică matematică și sisteme distribuite**.
-- Îmi construiesc portofoliul pentru a mă pregăti pentru un **job bine plătit în tech/AI**.
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=s1ng3&label=Profile%20views&color=0e75b6&style=flat" alt="s1ng3" />
+</p>
 
 ---
 
-## 🧠 Interese tehnice
-- **Computer Vision** (pose estimation, tracking, detection)
-- **Machine Learning & Deep Learning**
-- **Python (OpenCV, PyTorch, TensorFlow)**
-- **Sisteme de recomandare & optimizare**
-- **Mobile Development (experimente cu BeeWare)**
+### 🌱 I’m currently improving on:
+- **Computer Vision (MediaPipe, YOLO, OpenCV)**
+- **Machine Learning & Deep Learning**  
+- **Python for AI**
+- **Mobile development experiments (BeeWare)**  
+- **Git, GitHub & project structuring**
+
+### 📌 All my projects are available at:
+👉 **LinkedIn:** https://www.linkedin.com/in/tudor-cristian-singerean/
+
+### 📫 How to reach me:
+📧 **tudor.singerean@yahoo.com**
 
 ---
 
-## 🔧 Tehnologii cu care lucrez
-### 💻 Programare
-- Python, C++, Java, JavaScript  
-- PyTorch, TensorFlow, NumPy, OpenCV
-
-### 🛠️ Tools & Workflow
-- Git & GitHub  
-- Docker  
-- VS Code, PyCharm  
-- Jupyter Notebooks  
-
-### 🤖 AI / CV
-- YOLO, MediaPipe, Detectron2  
-- Feature engineering  
-- Video processing & tracking  
+## Connect with me:
+<p align="left">
+<a href="https://twitter.com/" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="twitter" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/tudor-cristian-singerean/" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="30" width="40" /></a>
+<a href="https://instagram.com/" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="instagram" height="30" width="40" /></a>
+<a href="https://discord.com/" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="discord" height="30" width="40" /></a>
+</p>
 
 ---
 
-## 📂 Proiecte interesante
-### 🧗‍♂️ **Climbing Tracker (în lucru)**
-Aplicație mobilă + backend de vision care:
-- detectează rutele de bouldering din video  
-- urmărește corpul cățărătorului  
-- calculează metrica de eficiență  
-- oferă feedback și statistici personalizate  
+## 🧰 Languages and Tools:
+<p align="left">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/opencv/opencv-original.svg" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytorch/pytorch-original.svg" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="40" height="40"/>
+</p>
 
-_(Se va actualiza pe măsură ce public repo-urile.)_
+---
+
+## 📌 Featured Projects (incoming)
+### 🧗‍♂️ **Climbing AI Trainer (WIP)**
+- Pose estimation using **MediaPipe / MoveNet**
+- Route detection using **YOLOv8**
+- Motion analysis: center of mass, angles, momentum
+- Difficulty scoring model
 
 ### 📅 **Daily Schedule Optimizer**
-Un sistem care îți reorganizează automat calendarul zilnic pe baza duratelor activităților — fără suprapuneri.
+- Automatic calendar structuring  
+- Conflict-free activity placement  
+- Simple ML for duration prediction  
 
 ---
 
-## 🎯 Obiective
-- Să devin foarte bun pe **AI și Computer Vision**  
-- Să construiesc proiecte practice care îmbină matematică și tehnologie  
-- Să obțin un job de top care să îmi ofere libertatea de a lucra la pasiunile mele  
+## 📊 GitHub Stats:
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=s1ng3&show_icons=true&locale=en&layout=compact" alt="s1ng3" />
+</p>
+
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=s1ng3&show_icons=true&locale=en" alt="s1ng3" />
+</p>
 
 ---
 
-## 📫 Contact
-Dacă vrei să vorbim, lasă-mi un mesaj aici pe GitHub sau pe email.  
-Întotdeauna deschis la discuții despre AI, proiecte open-source și colaborări.
-
----
-
-🔍 *Stay curious. Build bold.*  
+### 🔍 *Always learning. Always building.*
