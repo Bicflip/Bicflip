@@ -15,19 +15,17 @@
 - **Git, GitHub & project structuring**
 
 ### 📌 All my projects are available at:
-👉 **LinkedIn:** https://www.linkedin.com/in/tudor-cristian-singerean/
+👉 **LinkedIn:** https://www.linkedin.com/in/bic-tudor/
 
 ### 📫 How to reach me:
-📧 **tudor.singerean@yahoo.com**
+📧 **bictudor@gmail.com**
 
 ---
 
 ## Connect with me:
 <p align="left">
-<a href="https://twitter.com/" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="twitter" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/tudor-cristian-singerean/" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="30" width="40" /></a>
-<a href="https://instagram.com/" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="instagram" height="30" width="40" /></a>
-<a href="https://discord.com/" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="discord" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/bic-tudor/" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="30" width="40" /></a>
+<a href="https://instagram.com/bic.tudor/" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="instagram" height="30" width="40" /></a>
 </p>
 
 ---
