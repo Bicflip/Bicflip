@@ -1,8 +1,8 @@
-<h1 align="center">Hi 👋, I'm Tudor-Cristian Sîngerean</h1>
+<h1 align="center">Hi 👋, I'm Horațiu-Tudor Bîc</h1>
 <h3 align="center">A motivated AI & Computer Vision enthusiast, building smart tools and preparing for a strong career in software engineering. 🚀</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=s1ng3&label=Profile%20views&color=0e75b6&style=flat" alt="s1ng3" />
+  <img src="https://komarev.com/ghpvc/?username=Bicflip&label=Profile%20views&color=0e75b6&style=flat" alt="Bicflip" />
 </p>
 
 ---
@@ -65,11 +65,11 @@
 
 ## 📊 GitHub Stats:
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=s1ng3&show_icons=true&locale=en&layout=compact" alt="s1ng3" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Bicflip&show_icons=true&locale=en&layout=compact" alt="Bicflip" />
 </p>
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=s1ng3&show_icons=true&locale=en" alt="s1ng3" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Bicflip&show_icons=true&locale=en" alt="Bicflip" />
 </p>
 
 ---
