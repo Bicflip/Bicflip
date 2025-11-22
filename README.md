@@ -72,4 +72,4 @@
 
 ---
 
-### 🔍 *Always learning. Always building.*
+### 🔍 *Eager to learn and build.*
