@@ -14,11 +14,12 @@
 - **Mobile development experiments (BeeWare)**  
 - **Git, GitHub & project structuring**
 
-### 📌 All my projects are available at:
-👉 **LinkedIn:** https://www.linkedin.com/in/bic-tudor/
+
 
 ### 📫 How to reach me:
 📧 **bictudor@gmail.com**
+👉 **[LinkedIn](https://www.linkedin.com/in/bic-tudor/)**
+
 
 ---
 
